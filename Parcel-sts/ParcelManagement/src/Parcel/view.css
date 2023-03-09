@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+
+table{
+    padding: 25px;
+    background-color: aliceblue;
+    margin: auto;
+}
+td{
+border: solid black 1px;
+padding: 10px;
+font-family: 'Mukta', sans-serif;
+}
+th{
+border: solid black 1px;
+padding: 15px;
+}

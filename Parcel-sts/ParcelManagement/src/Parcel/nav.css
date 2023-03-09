@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+*{
+    margin: 0%;
+    background: url('https://www.gettyimages.in/detail/illustration/christmas-and-holiday-gifts-snow-winter-royalty-free-illustration/1270154679');
+}
+.nav{
+    height: 40px;
+    background-color: #003311;
+    opacity: 0.8;
+    display: flex;
+    justify-content: space-around;    
+}
+.nav-item{
+    list-style: none;
+    padding-top: 10px;
+}
+a{
+    color: aqua ;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+}
